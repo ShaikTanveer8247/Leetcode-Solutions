@@ -48,8 +48,13 @@ Leetcode solutions in Python for DSA, problem-solving, and coding interview prep
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0155-min-stack) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
