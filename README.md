@@ -23,6 +23,7 @@ Leetcode solutions in Python for DSA, problem-solving, and coding interview prep
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
@@ -47,4 +48,8 @@ Leetcode solutions in Python for DSA, problem-solving, and coding interview prep
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
