@@ -11,6 +11,7 @@ Leetcode solutions in Python for DSA, problem-solving, and coding interview prep
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -23,4 +24,12 @@ Leetcode solutions in Python for DSA, problem-solving, and coding interview prep
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
