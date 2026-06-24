@@ -16,6 +16,7 @@ Leetcode solutions in Python for DSA, problem-solving, and coding interview prep
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 ## Linked List
 |  |
 | ------- |
