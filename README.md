@@ -15,4 +15,12 @@ Leetcode solutions in Python for DSA, problem-solving, and coding interview prep
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0007-reverse-integer) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
