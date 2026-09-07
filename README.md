@@ -8,12 +8,14 @@ Leetcode solutions in Python for DSA, problem-solving, and coding interview prep
 | ------- |
 | [0001-two-sum](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0217-contains-duplicate](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 ## Math
 |  |
@@ -40,6 +42,7 @@ Leetcode solutions in Python for DSA, problem-solving, and coding interview prep
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
