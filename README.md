@@ -8,6 +8,7 @@ Leetcode solutions in Python for DSA, problem-solving, and coding interview prep
 | ------- |
 | [0001-two-sum](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
