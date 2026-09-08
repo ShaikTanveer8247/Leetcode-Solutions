@@ -8,6 +8,7 @@ Leetcode solutions in Python for DSA, problem-solving, and coding interview prep
 | ------- |
 | [0001-two-sum](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -61,6 +62,7 @@ Leetcode solutions in Python for DSA, problem-solving, and coding interview prep
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Design
 |  |
@@ -70,4 +72,8 @@ Leetcode solutions in Python for DSA, problem-solving, and coding interview prep
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
