@@ -42,6 +42,7 @@ Leetcode solutions in Python for DSA, problem-solving, and coding interview prep
 | [0013-roman-to-integer](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -62,6 +63,7 @@ Leetcode solutions in Python for DSA, problem-solving, and coding interview prep
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0125-valid-palindrome](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Design
