@@ -7,6 +7,7 @@ Leetcode solutions in Python for DSA, problem-solving, and coding interview prep
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
@@ -62,6 +63,7 @@ Leetcode solutions in Python for DSA, problem-solving, and coding interview prep
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -78,4 +80,8 @@ Leetcode solutions in Python for DSA, problem-solving, and coding interview prep
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
