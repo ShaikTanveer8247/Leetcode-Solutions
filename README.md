@@ -20,6 +20,7 @@ Leetcode solutions in Python for DSA, problem-solving, and coding interview prep
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -44,6 +45,7 @@ Leetcode solutions in Python for DSA, problem-solving, and coding interview prep
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
@@ -81,6 +83,7 @@ Leetcode solutions in Python for DSA, problem-solving, and coding interview prep
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/ShaikTanveer8247/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
